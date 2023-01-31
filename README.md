@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ReDay Zarra!
-- 👀 I’m interested in machine learning and web development!
-- 🌱 I’m currently focusing on deep learning and UI/UX Design!
+- 👀 I’m interested in artificial intelligence and machine learning!
+- 🌱 I’m currently focusing on deep learning and data analysis.
 - 💞️ I’m looking to collaborate on all kinds of projects! I'm currently collaborating on an Arduino TinyML project that uses machine learning to process sensorial data on an ELEGOO UNO R3.
 - 📫 Find me at [redayzarra.com](https://redayzarra.com/), Email me at redayzarra@gmail.com, LinkedIn: www.linkedin.com/in/redayzarra
 
