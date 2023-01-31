@@ -2,7 +2,7 @@
 - 👀 I’m interested in artificial intelligence and machine learning!
 - 🌱 I’m currently focusing on deep learning and data analysis.
 - 💞️ I’m looking to collaborate on all kinds of projects! I'm currently collaborating on an Arduino TinyML project that uses machine learning to process sensorial data on an ELEGOO UNO R3.
-- 📫 Find me at [redayzarra.com](https://redayzarra.com/), Email me at redayzarra@gmail.com, LinkedIn: www.linkedin.com/in/redayzarra
+- 📫 Find me at [redaysblog.com](http://redaysblog.com/, Email me at redayzarra@gmail.com, LinkedIn: www.linkedin.com/in/redayzarra
 
 
 <!---
