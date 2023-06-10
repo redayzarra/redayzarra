@@ -1,11 +1,5 @@
-- 👋 Hi, I’m ReDay Zarra!
-- 👀 I’m interested in artificial intelligence and machine learning!
-- 🌱 I’m currently focusing on deep learning and data analysis.
-- 💞️ I’m looking to collaborate on all kinds of projects! I'm currently collaborating on an Arduino TinyML project that uses machine learning to process sensorial data on an ELEGOO UNO R3.
-- 📫 Find me at [redaysblog.com](http://redaysblog.com/), Email me at redayzarra@gmail.com, LinkedIn: www.linkedin.com/in/redayzarra
+# About Me
 
+I'm a full-stack developer and data scientist from Boston, MA, currently working on leveraging Python, TypeScript, and a host of other technologies to create dynamic, innovative solutions. My portfolio features a range of open-source projects, from web-based drone control systems to automated trading bots. I enjoy turning complex problems into beautiful simple solutions.
 
-<!---
-redayzarra/redayzarra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+As I transition into the professional world, I am actively seeking internship and new graduate opportunities where I can apply my robust technical skills and passion for innovation. I am excited to join a team where I can continue to learn, contribute meaningfully, and drive the technological and biomedical frontiers forward
