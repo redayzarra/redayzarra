@@ -6,5 +6,15 @@ As I transition into the professional world, I am actively seeking internship an
 
 ## What I'm doing
 
-[<img src="https://github.com/redayzarra/redayzarra/assets/113388793/b14f5b63-d8e5-4a39-97e7-00e078076db6" alt="Web Development" width="45%" />](https://github.com/redayzarra/GameHub-React)
-[<img src="https://github.com/redayzarra/redayzarra/assets/113388793/ad464a11-78a8-4e7d-be0e-ec311f9aa8f9" alt="Mobile Development" width="45%" />](https://github.com/redayzarra/study-react-native)
+<p align="center">
+  <a href="https://github.com/redayzarra/GameHub-React">
+    <img src="https://github.com/redayzarra/redayzarra/assets/113388793/b14f5b63-d8e5-4a39-97e7-00e078076db6" alt="Web Development" width="45%" />
+  </a>
+  <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="5%" />
+  <a href="https://github.com/redayzarra/study-react-native">
+    <img src="https://github.com/redayzarra/redayzarra/assets/113388793/ad464a11-78a8-4e7d-be0e-ec311f9aa8f9" alt="Mobile Development" width="45%" />
+  </a>
+</p>
+
+
+
