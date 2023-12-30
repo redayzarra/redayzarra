@@ -1,3 +1,3 @@
 # About Me
 
-I'm a full-stack developer and data scientist from Boston, MA, currently working on leveraging Python, TypeScript, and a host of other technologies to create dynamic, innovative solutions. My portfolio features a range of open-source projects, from web-based drone control systems to automated trading bots. I enjoy turning complex problems into beautiful simple solutions.
+I'm a full-stack developer and data scientist from Boston, MA. I'm currently building StudyDSA, a free online resource for students to master data structures and algorithms. My portfolio features a range of open-source projects, from programming drones to training chess bots. I enjoy turning complex problems into beautiful simple solutions.
